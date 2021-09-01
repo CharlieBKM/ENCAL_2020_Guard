@@ -21,7 +21,7 @@ def Navbar():
              
         ],
         brand="Sistema de Percepción Social",
-#        brand_href="/",
+        brand_href="https://sps-cie-imss.herokuapp.com/",
         sticky="top",
         color= '#13322B',
         dark=True,
