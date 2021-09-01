@@ -1,0 +1,33 @@
+﻿variable,pregunta,seccion
+sat1,"En general, ¿qué tan satisfecho(a) o insatisfecho(a) está usted con el servicio que recibe en la guardería del IMSS?",Satisfacción con el servicio de guardería
+trato2,¿Cómo es el trato que usted recibe por parte del personal de la guardería?,Satisfacción con el servicio de guardería
+trato1,¿Cómo es el trato que recibe el (la) niño(a) por parte del personal de la guardería?,Satisfacción con el servicio de guardería
+medidaseg,¿Conoce las medidas de seguridad de las instalaciones de la guardería?,Seguridad e higiene en la guardería
+limpguard,"En general, ¿cómo calificaría la limpieza de la guardería?",Seguridad e higiene en la guardería
+manguard,"En general, ¿cómo calificaría el mantenimiento que se le da a la guardería?",Seguridad e higiene en la guardería
+desling,¿Después de asistir a esta guardería el (la) niño(a) mostró avances en su desarrollo lingüístico o habilidades para comunicarse?,Desarrollo integral del niño(a) en la guardería
+desmot,¿Después de asistir a esta guardería el (la) niño(a) mostró avances en la coordinación de sus movimientos?,Desarrollo integral del niño(a) en la guardería
+desocon,¿Después de asistir a esta guardería el (la) niño(a) mostró avances en su desarrollo social y de convivencia?,Desarrollo integral del niño(a) en la guardería
+sala,¿En qué sala de atención o grupo se encuentra inscrito el (la) niño(a)?,Desarrollo integral del niño(a) en la guardería
+clafec,"El personal de la sala o grupo fomenta un clima de afecto y buen trato con los niños (sonrisas, risas, miradas de afecto, entusiasmo, respeto)",Afectividad y Conducta
+entuaf,"He notado entusiasmo y afecto (contacto visual, sonrisa, dar los brazos) en el(la) niño(a) al ser recibido por el personal de su sala de atención o grupo",Afectividad y Conducta
+temied,El(la) niño(a) ha demostrado miedo o temor hacia alguna persona de la guardería en particular,Afectividad y Conducta
+traseg,"Cuando al (la) niño(a) le es difícil ingresar a la guardería, el personal que lo recibe intenta proporcionarle tranquilidad y seguridad",Afectividad y Conducta
+auton,Considero que las acciones pedagógicas que se llevan a cabo en las guarderías ayudan a que los(las) niños(as) logren gradualmente mayor autonomía,Afectividad y Conducta
+infond,"Tomando en cuenta la información que recibo diariamente a través de la “libreta de información sobre la atención de los niños”, considero que el personal de la guardería monitorea activamente la conducta de los(las) niños(as)",Afectividad y Conducta
+nocond,El personal de la sala de atención o grupo identifica y da seguimiento a los episodios de conductas no adecuadas para reducirlos o eliminarlos,Afectividad y Conducta
+presact,"Durante la estancia de su niño(a) en la guardería, ¿ha presenciado alguna actividad pedagógica en la guardería?",Elementos facilitadores del aprendizaje
+invact,El personal se involucra en las actividades con los(las) niños(as) (juega y platica con ellos),Elementos facilitadores del aprendizaje
+habides,El material que se encuentra en la sala de atención o grupo permite al (la) niño(a) desarrollar habilidades y destrezas,Elementos facilitadores del aprendizaje
+paractiv,Los(las) niños(as) participan activa y constantemente en las actividades y rutinas,Elementos facilitadores del aprendizaje
+relogro,"A través de la información que recibo, considero que el personal reconoce los logros de los niños(as)",Elementos facilitadores del aprendizaje
+promu,El personal educativo promueve que los(las) niños(as) amplíen su comunicación y/o lenguaje durante su estancia en la guardería,Elementos facilitadores del aprendizaje
+trabcont,Desde que inició la emergencia sanitaria causada por el COVID-19 ¿usted continuó yendo a su centro de trabajo?,Preguntas referentes a SARS-CoV2 (COVID-19)
+cargotrab,¿Quién estuvo a cargo del cuidado del niño mientras usted se encontraba en su centro de trabajo?,Preguntas referentes a SARS-CoV2 (COVID-19)
+trabcasa,¿Continuó efectuando su trabajo desde casa?,Preguntas referentes a SARS-CoV2 (COVID-19)
+apoyocasa,Aun laborando desde casa ¿requirió de alguien para que le apoyara con el cuidado de su hijo?,Preguntas referentes a SARS-CoV2 (COVID-19)
+cargocasa,¿Quién le apoyo en el cuidado del niño?,Preguntas referentes a SARS-CoV2 (COVID-19)
+usoguarcov,Si la guardería hubiera continuado dando servicio durante la contingencia sanitaria ¿hubiera hecho uso de este?,Preguntas referentes a SARS-CoV2 (COVID-19)
+actsugmic,"¿Las actividades y sugerencias recibidas a través del micrositio de comunicación con padres, le ayudaron a dar continuidad a los aprendizajes que se promueven en la guardería?",Preguntas referentes a SARS-CoV2 (COVID-19)
+calserv,"En una escala del 0 al 10, donde 0 es pésimo y 10 es excelente, ¿cómo calificaría la calidad del servicio de esta guardería?",Calidad y recomendación del servicio de guardería
+recomserv_x,"De acuerdo con su experiencia, ¿qué recomendaría para mejorar el servicio de esta guardería?",Calidad y recomendación del servicio de guardería
